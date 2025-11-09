@@ -1,15 +1,7 @@
-# JS Basic Assignment 1
+# Typescript Assignment 1
 
-You have to solve all the exercises in a single file. Just to make it more structured you have to solve each exercise in a separate function and call that function in a respective switch case.
-Start with a given project which contains a sample code. Add new functions for next exercises.
-
-## Getting started
-
-To get started, clone the repository and run the following command:
-
-```sh
-npm install
-```
+A collection of 33 typescript exercises, some of them optional.
+First commit is all the mandatory exercises, optionals will be handled in later commits
 
 ## Available scripts
 
